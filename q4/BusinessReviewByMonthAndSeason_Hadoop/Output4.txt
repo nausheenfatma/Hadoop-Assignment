@@ -1,0 +1,6 @@
+Feb	1
+Jan	2
+Jul	2
+May	1
+Spring	3
+Winter	3
